@@ -1,0 +1,26 @@
+.img-thumbnail img{
+	width:100%;
+}
+
+.img-thumbnail{
+	padding:0;
+}
+
+.caption{
+	padding : 9px;
+}
+.span{
+	text-align: right;
+}
+ 
+.navbar{
+	padding:3.5px;
+}
+body{
+	background:#688688
+.well{
+	padding:9px;
+}
+#delete-form{
+	display:inline;
+}
